@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/aspose-cells-19.3-android.via.java.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/aspose-cells-19.3-android.via.java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

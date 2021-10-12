@@ -1,0 +1,10 @@
+com/androidmarket/pdfcreator/util/StringUtilsTest.java
+ com.androidmarket.pdfcreator.util.StringUtilsTest
+com/androidmarket/pdfcreator/util/DirectoryUtilsTest.java
+ com.androidmarket.pdfcreator.util.DirectoryUtilsTest
+com/androidmarket/ApplicationTest.java
+ com.androidmarket.ApplicationTest
+com/androidmarket/pdfcreator/util/ImageUtilsTest.java
+ com.androidmarket.pdfcreator.util.ImageUtilsTest
+androidmarket/test/BuildConfig.java
+ androidmarket.test.BuildConfig

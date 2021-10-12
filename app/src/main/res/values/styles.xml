@@ -1,0 +1,125 @@
+<!--suppress ALL -->
+<resources>
+
+    <!-- Base application theme. -->
+        <style name="AppThemeWhite" parent="Theme.AppCompat.DayNight.NoActionBar">
+<!--    <style>-->
+    <!-- Customize your theme here. -->
+        <item name="colorPrimary">#F3EFEF</item>
+        <item name="colorPrimaryDark">#8DA9D5</item>
+        <item name="colorAccent">#86A2CD</item>
+        <item name="android:iconTint">#57646A</item>
+        <item name="android:windowBackground">@color/windowBackground_light</item>
+        <item name="titleToolbarTextColor">@color/mb_white</item>
+        <item name="iconTintOnCard">#7796C5</item>
+        <item name="historyIconColor">#6C82A5</item>
+        <item name="customDividerColor">#4E4D4D</item>
+        <item name="navigationIconTint">#A3B8C3</item>
+        <item name="bottomSheetColor">?attr/colorPrimary</item>
+        <item name="bottomSheetTextColor">@color/ic_launcher_background</item>
+        <item name="bannerBackgroundColor">#8CA8D3</item>
+        <item name="similarBgColor">#FBDEDE</item>
+        <item name="bottomSheetBgColor">#BCBCBD</item>
+        <item name="lockIconTintColor">#4E4444</item>
+        <item name="actionMenuTextColor">#FADFDF</item>
+        <item name="searchFileRaw">@raw/search_file_dark</item>
+        <item name="android:actionMenuTextColor">#FAD0D0</item>
+        <item name="android:scrollbarThumbVertical">@android:color/transparent</item>
+        <item name="android:statusBarColor">#95BCF8</item>
+        <item name="android:listDivider">@color/white</item>
+        <item name="android:textColor">@color/colorBlackAlt</item>
+        <item name="materialCardViewStyle">@style/MaterialCardviewStyleLight</item>
+    </style>
+
+    <style name="AppThemeBlack" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowBackground">#433F3F</item>
+        <item name="historyIconColor">#95AAB5</item>
+        <item name="iconTintOnCard">#BA9292</item>
+        <item name="customDividerColor">#8B8EA1</item>
+        <item name="navigationIconTint">#9ABFD1</item>
+        <item name="bottomSheetColor">#EDCFCF</item>
+        <item name="bottomSheetTextColor">#4C4747</item>
+        <item name="bannerBackgroundColor">#727691</item>
+        <item name="similarBgColor">#9A8080</item>
+        <item name="bottomSheetBgColor">#654F4F</item>
+        <item name="lockIconTintColor">#ECC7C7</item>
+        <item name="actionMenuTextColor">#CA9393</item>
+        <item name="searchFileRaw">@raw/search_file_light</item>
+        <item name="android:actionMenuTextColor">#7A3939</item>
+        <item name="android:statusBarColor">#322828</item>
+        <item name="android:textColor">#D1CDCD</item>
+        <item name="materialCardViewStyle">@style/MaterialCardviewStyleBlack</item>
+    </style>
+
+    <style name="ActivityThemeDark" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/colorBlackAlt</item>
+        <item name="android:windowBackground">#575967</item>
+        <item name="titleToolbarTextColor">#FDF1F1</item>
+        <item name="iconTintOnCard">#E4E1E1</item>
+        <item name="historyIconColor">#100F0F</item>
+        <item name="customDividerColor">#0C0B0B</item>
+        <item name="navigationIconTint">#495C65</item>
+        <item name="bottomSheetColor">?attr/colorPrimary</item>
+        <item name="bottomSheetTextColor">#D6D5D5</item>
+        <item name="bannerBackgroundColor">#6A8EC5</item>
+        <item name="similarBgColor">#0C0B0B</item>
+        <item name="bottomSheetBgColor">#656878</item>
+        <item name="lockIconTintColor">#DDDDDD</item>
+        <item name="actionMenuTextColor">#FAE4E4</item>
+        <item name="searchFileRaw">@raw/search_file_light</item>
+        <item name="android:actionMenuTextColor">#FFEBEB</item>
+        <item name="android:statusBarColor">#59647C</item>
+        <item name="android:textColor">#FAE5E5</item>
+        <item name="materialCardViewStyle">@style/MaterialCardviewStyleDark</item>
+    </style>
+
+    <style name="ToolbarTheme" parent="@style/TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textColorSecondary">#F4DEDE</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="MorphingButton">
+        <item name="android:textColor">#FADFDF</item>
+    </style>
+
+    <style name="AboutUSTextViewMedium" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:drawableTint">#97BED1</item>
+    </style>
+
+    <style name="AboutUSTextViewSmall" parent="TextAppearance.AppCompat.Small">
+        <item name="android:drawableTint">#81A4B5</item>
+    </style>
+
+    <style name="PDFconverter">
+        <item name="android:textColor">#FDE6E6</item>
+        <item name="colorAccent">#88AABA</item>
+    </style>
+    <style name="TabLayoutCustomStyle" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="textAllCaps">false</item>
+    </style>
+    <style name="SplashTheme" parent="AppThemeWhite">
+        <item name="android:windowBackground">@drawable/splash_bg</item>
+        <item name="android:navigationBarColor">#88AFEC</item>
+        <item name="android:statusBarColor">#5682C6</item>
+    </style>
+
+    <style name="ToolbarThemeDark">
+        <item name="android:backgroundTint">#5B6881</item>
+    </style>
+    <style name="MainContentThemeDark">
+        <item name="android:backgroundTint">#484E5C</item>
+    </style>
+
+    <style name="MaterialCardviewStyleDark" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">#606D87</item>
+    </style>
+    <style name="MaterialCardviewStyleBlack" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">#0C0C0C</item>
+    </style>
+    <style name="MaterialCardviewStyleLight" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">#D6B4B4</item>
+    </style>
+</resources>

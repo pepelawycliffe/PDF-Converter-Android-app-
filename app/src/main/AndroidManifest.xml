@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="androidmarket">
+
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="28"
+        tools:ignore="ScopedStorage" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:name="androidx.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:authorities="${applicationId}.contentprovider"
+        android:fullBackupContent="@xml/backup_descriptor"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppThemeWhite"
+        tools:ignore="GoogleAppIndexingWarning,RtlEnabled">
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Base.Theme.AppCompat" />
+        <activity android:name="com.androidmarket.pdfcreator.activities.ActivityCropImage" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.com.shareFile"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <activity
+            android:name="com.androidmarket.pdfcreator.activities.ActivityImageEditor"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.androidmarket.pdfcreator.activities.ActivityPreview"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.androidmarket.pdfcreator.activities.ActivityRearrangeImages"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.androidmarket.pdfcreator.activities.ActivityImagesPreview"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.androidmarket.pdfcreator.activities.ActivityRearrangePdfPages"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.androidmarket.pdfcreator.activities.ActivityFavourites"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.androidmarket.pdfcreator.activities.HomeActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+
+        </activity>
+
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/app_id_admob" />
+
+        <activity
+            android:name="com.androidmarket.pdfcreator.activities.SecondActivity"
+            android:screenOrientation="portrait" />
+
+        <activity android:name="com.androidmarket.pdfcreator.activities.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+    </application>
+</manifest>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.danielnilsson9:color-picker-view:1.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fcad37e8ba426906c3c7b72bec33dd9/jetified-color-picker-view-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fcad37e8ba426906c3c7b72bec33dd9/jetified-color-picker-view-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4fcad37e8ba426906c3c7b72bec33dd9/jetified-color-picker-view-1.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.danielnilsson9/color-picker-view/1.4.0/536835814dadc1d38384b3a0f64aaae1052a8edd/color-picker-view-1.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.danielnilsson9/color-picker-view/1.4.0/fca1e10a9ab3e779d60e4f6f9b1d6857cd234140/color-picker-view-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

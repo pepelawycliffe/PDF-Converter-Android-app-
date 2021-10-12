@@ -1,0 +1,24 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tr-rTR\\values-tr-rTR.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\wycliffe\\.gradle\\caches\\transforms-2\\files-2.1\\b571e291b5e648c946f14550d565b186\\jetified-matisse-0.5.3-beta3\\res\\values-tr-rTR\\values-tr-rTR.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,162,218,263,307,360,415,485,595,683,774,835,931,992",
+                        "endColumns": "52,53,55,44,43,52,54,69,109,87,90,60,95,60,53",
+                        "endOffsets": "103,157,213,258,302,355,410,480,590,678,769,830,926,987,1041"
+                    }
+                }
+            ]
+        }
+    ]
+}

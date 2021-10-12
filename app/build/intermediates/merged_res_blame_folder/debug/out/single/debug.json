@@ -1,0 +1,970 @@
+[
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_faq.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\item_faq.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\raw_favourites.json.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\raw\\favourites.json"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\raw_image_icon_tadah.json.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\raw\\image_icon_tadah.json"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_navigate_next_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_navigate_next_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_compress_image.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_compress_image.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_remove_circle_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_remove_circle_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_favourite_pref_done.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\menu\\menu_favourite_pref_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_branding_watermark_black_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_branding_watermark_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_flip_horizontal.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\flip_horizontal.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_font_black_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_font_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fav_pref_screen.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fav_pref_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lomish.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\lomish.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_watermark_dialog.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\add_watermark_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_photo_filter_black_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_photo_filter_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_none.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\none.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_flip_vertical.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\flip_vertical.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flip_vertical.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\flip_vertical.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_due_tone.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\due_tone.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_due_tone.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\due_tone.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_text.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_add_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_poster.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\poster.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_crop_image.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\menu\\activity_crop_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_view_files_actions_if_selected.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\menu\\activity_view_files_actions_if_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_theme_default.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\dialog_theme_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_auto_fix.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\auto_fix.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_border_image_black_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_border_image_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_preview.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\activity_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_circle_white.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\circle_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rotate.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\rotate.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vignette.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\vignette.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_brush_color_item.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\brush_color_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_delete_24.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\baseline_delete_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sepia.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\sepia.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_black.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\black.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_images_to_pdf.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_images_to_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_native_ad_tag.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\native_ad_tag.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_people_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_people_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_color.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_color.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_set_page_size_dialog.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\set_page_size_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_temp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\temp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_text_format_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_text_format_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\raw_no_permissions.json.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\raw\\no_permissions.json"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sharpen.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\sharpen.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_color_chooser.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\dialog_color_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_negative.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\negative.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sepia.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\sepia.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_bg.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\splash_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_documentary.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\documentary.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_insert_drive_file_black_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_insert_drive_file_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_brightness.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\brightness.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tint.gif.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\tint.gif"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_poster.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\poster.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_font_family_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_font_family_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_rearrange_images.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\item_rearrange_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_invert_pdf.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_invert_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_grain.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\grain.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_down_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_arrow_down_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_palette.jpg.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\color_palette.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_contrast.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\contrast.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_invert_color_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_invert_color_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_circle_outline_black_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_play_circle_outline_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_text_pdf.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_text_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_font_family.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\dialog_font_family.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_margins_dialog.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\add_margins_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_filter.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\list_item_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_create_black_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_create_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_watermark.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_watermark.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_descriptor.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\xml\\backup_descriptor.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_merge_files.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_merge_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_images.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_add_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about_us.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qr_pdf.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\qr_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_reg.ttf.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\font\\roboto_reg.ttf"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_documentary.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\documentary.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_rotate.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_white_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_delete_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_file.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\item_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_print_black_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_print_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_white_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_search_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sharpen.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\sharpen.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_split_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_call_split_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_circle.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\xml_favourites_preferences.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\xml\\favourites_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_black.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\black.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_flip_horizontal.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\flip_horizontal.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gr_img_pdf.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\gr_img_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_box_outline_blank_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_check_box_outline_blank_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_email_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_negative.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\negative.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_favourites_fragment.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\favourites_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_text_to_pdf.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_text_to_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_faq.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_faq.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_pallete_layout.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\color_pallete_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gr_btn.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\gr_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_done_24.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\baseline_done_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_brightness.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\brightness.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_enhanced_encryption_24.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\baseline_enhanced_encryption_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_contrast.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\contrast.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_none.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\none.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_view_enhancement_option.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\item_view_enhancement_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_crop_image_activity.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\activity_crop_image_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort_white_24px.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_sort_white_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fill_light.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\fill_light.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_format_list_numbered_black_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_format_list_numbered_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rotate.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo_round.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_aspect_ratio_black_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_aspect_ratio_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_excel_pdf.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_excel_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_remove_pages.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_remove_pages.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_auto_fix.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\auto_fix.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_light.ttf.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\font\\roboto_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_merge_selected_files.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\item_merge_selected_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brush.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\brush.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cross_process.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\cross_process.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_page_size_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_page_size_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_open_img.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\open_img.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sharpen.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\sharpen.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_whats_new.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_whats_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_poster.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\poster.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_circle.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\circle.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\raw_search_file_light.json.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\raw\\search_file_light.json"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_scale_type_dialog.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\image_scale_type_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_box_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_check_box_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_border_image.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\dialog_border_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_downward_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_arrow_downward_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock_open_black_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_lock_open_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rearrange.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_rearrange.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_select_img.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\select_img.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_flip_vertical.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\flip_vertical.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_background.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\search_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lomish.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\lomish.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_vignette.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\vignette.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_merge_files.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\item_merge_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header_image.jpg.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\header_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cross_process.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\cross_process.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_temp.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\temp.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_remove_duplicate_square_black.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_remove_duplicate_square_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_rotate_pdf.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\dialog_rotate_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_setting.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_brightness.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\brightness.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_documentary.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\documentary.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_item_history.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\layout_item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_upward_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_arrow_upward_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rearrange_images.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\activity_rearrange_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_license.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_license.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_excel.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_excel.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_qrcode_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_qrcode_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_lottie_anim_dialog.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\lottie_anim_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_saturate.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\saturate.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flip_horizontal.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\flip_horizontal.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_saturate.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\saturate.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_create_img.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\create_img.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_view_files_actions.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\menu\\activity_view_files_actions.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_slack.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_slack.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_navigate_before_white_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_navigate_before_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_history_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_history_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_temp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\temp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_view.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_view.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_merge_type_white_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_merge_type_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_grain.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\grain.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_view_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\view_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_white_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_person_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_view_files.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_view_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_image_pdf.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_image_pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gr_white_tr.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\gr_white_tr.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_negative.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\negative.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_page_color.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_page_color.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_merge_type_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_merge_type_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_auto_fix.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\auto_fix.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\raw_search_file_dark.json.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\raw\\search_file_dark.json"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cross_process.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\cross_process.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_preview_images.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\activity_preview_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_ad_unified_new.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\ad_unified_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_preview_image_options.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\item_preview_image_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_image_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_image_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_b.ttf.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\font\\roboto_b.ttf"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_font_size.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\dialog_font_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_pgnum_dialog.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\add_pgnum_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_barcode_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_barcode_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_split_files.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_split_files.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cornered_edges.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\cornered_edges.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_none.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\none.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_files_divider.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\files_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_settings_brightness_24.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\baseline_settings_brightness_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_pdf_preview_item.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\pdf_preview_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo_editor.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\activity_photo_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_sepia.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\sepia.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_baseline_crop_rotate_24.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\baseline_crop_rotate_24.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_circle.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\circle.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_lomish.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\lomish.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_up_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_arrow_up_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_whats_new.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\item_whats_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_img.jpg.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\splash_img.jpg"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_due_tone.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\due_tone.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_white_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_check_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_image_extracted.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\item_image_extracted.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_history_fragment.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\menu\\menu_history_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_compress_image_dialog.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\compress_image_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_remove_duplicate_pages.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_remove_duplicate_pages.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_version_white_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_version_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_playstore.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_playstore.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_zip_to_pdf.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_zip_to_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock_black_24dp.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_lock_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_web.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pdf_to_image.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_pdf_to_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_broken_image_black_24dp.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_broken_image_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_extract_text.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_extract_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_vignette.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\vignette.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_change_master_pwd.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\dialog_change_master_pwd.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_filter_list.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-anydpi\\ic_filter_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_fill_light.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\fill_light.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_github.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\ic_github.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_bg.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable\\shape_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_black.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-hdpi\\black.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_fill_light.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\fill_light.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_contrast.webp.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxhdpi\\contrast.webp"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_excelto_pdf.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_excelto_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_grain.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\grain.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_zip_to_pdf.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_zip_to_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_saturate.png.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\drawable-xxxhdpi\\saturate.png"
+    },
+    {
+        "merged": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_qrcode_barcode.xml.flat",
+        "source": "C:\\Users\\wycliffe\\AndroidStudioProjects\\PDF-Converter\\app\\src\\main\\res\\layout\\fragment_qrcode_barcode.xml"
+    }
+]

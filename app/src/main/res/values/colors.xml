@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6D94CF</color>
+    <color name="colorPrimaryDark">#5E82B8</color>
+    <color name="colorAccent">#5F84BC</color>
+    <color name="light_gray">#C3C1C1</color>
+    <color name="grey">#8C8888</color>
+    <color name="lighter_gray">#EDEDED</color>
+    <color name="dark_purple">#B32570</color>
+    <color name="colorGray">#72A4BC</color>
+    <color name="black">#120F0F</color>
+    <color name="red">#FA0E0E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorBlackAlt">#2B303B</color>
+    <color name="colorBlackAltLight">#3E4553</color>
+    <color name="colorBackground_black">#0C0909</color>
+
+    <color name="windowBackground_light">#F4F4F6</color>
+    <color name="windowBackground_dark">#33343B</color>
+
+    //Black Colors
+
+    //White Colors
+    <color name="color_image_pdf">#61BDC1</color>
+    <color name="color_text_pdf">#EC7F5D</color>
+    <color name="color_qr_pdf">#9580EC</color>
+    <color name="color_excel_pdf">#6897DF</color>
+
+
+    <!-- DOTS COLOR -->
+
+</resources>

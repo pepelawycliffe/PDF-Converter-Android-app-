@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.xmlbeans:xmlbeans:2.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlbeans/xmlbeans/2.4.0/9c8f767c02f9d8b98a2854aa0cf83e155747d299/xmlbeans-2.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.xmlbeans/xmlbeans/2.4.0/7e327d3dca204c6f6fd189947fc653e692d3e6fb/xmlbeans-2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

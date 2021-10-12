@@ -11,4 +11,7 @@ _________________________________________
 .Very Detailed Documentation Guide Included<br>
 .Admob Ads are implemented very smartly<br>
 .Java Code<br>
+
+screeshot<br>
+<img src="https://github.com/pepelawycliffe/photo-motion-animation/blob/main/1.png" width="400"><br>
  
